@@ -1,0 +1,16 @@
+h1 {
+  color: cyan;
+  font-size: 3em;
+  text-align: center;
+}
+
+p.paros {
+  background-color: lightcyan;
+}
+p.paratlan {
+  background-color: lightgrey;
+}
+
+.bg-cyan {
+  background-color: cyan;
+}
